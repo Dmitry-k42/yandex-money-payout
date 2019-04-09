@@ -1,5 +1,5 @@
 {
-    "name": "Dmitry-k42/yandex-money-payout",
+    "name": "dmitry-k42/yandex-money-payout",
     "description": "Module for integration with YandexMoney Payouts. See https://tech.yandex.ru/money/doc/payment-solution/payout/",
     "minimum-stability": "stable",
     "license": "MIT",
