@@ -1,5 +1,5 @@
 {
-    "name": "shnellpavel/yandex-mone-payout",
+    "name": "Dmitry-k42/yandex-money-payout",
     "description": "Module for integration with YandexMoney Payouts. See https://tech.yandex.ru/money/doc/payment-solution/payout/",
     "minimum-stability": "stable",
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "Shnell Pavel",
             "email": "shnellpavel@gmail.com"
+        },
+        {
+            "name": "Dmitry Kononenko",
+            "email": "d@dm42.ru"
         }
     ],
     "require-dev": {
